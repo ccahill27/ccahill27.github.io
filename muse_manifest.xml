@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chriscahill.cc" resolutions="1x" timestamp="1530719333801">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chriscahill.cc" resolutions="1x" timestamp="1531060977534">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="240505401" ref="index"/>
+    <file name="index.css" crc="273607306" ref="index"/>
     <file name="iefonts_index.css" crc="4227596082" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -11,9 +11,9 @@
     <file name="museconfig.js" crc="310584261" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index:index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index:index"/>
     <file name="form-u5733.php" crc="191823285" ref="phone>index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
@@ -22,26 +22,17 @@
     <file name="jquery.museoverlay.js" crc="4147669564" ref="tablet>index:index"/>
     <file name="touchswipe.js" crc="4075097462" ref="tablet>index:index"/>
     <file name="form-u5297.php" crc="137512103" ref="tablet>index"/>
-    <file name="form-u2691.php" crc="62568478" ref="index"/>
+    <file name="form-u2691.php" crc="412977414" ref="index"/>
     <file name="form-u3177.php" crc="442079678" ref="index"/>
   </folder>
   <folder name="images">
     <file name="branding.png" crc="4293309447" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="design.png" crc="4137836799" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="jamesdoe.jpg" crc="403037988" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -57,15 +48,8 @@
     <file name="90-.png" crc="311746381" seo="true" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="75-.png" crc="505622096" seo="true" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -73,8 +57,6 @@
     <file name="image2-u5783-fr.jpg" crc="3975197988" ref="phone>index"/>
     <file name="image3-u5784-fr.jpg" crc="4108715087" ref="phone>index"/>
     <file name="janetdoe.jpg" crc="513560085" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -94,20 +76,17 @@
     <file name="u5728-r.png" crc="4129255785" ref="phone>index"/>
     <file name="u5730.png" crc="3979239115" ref="phone>index"/>
     <file name="u5730-r.png" crc="4198659892" ref="phone>index"/>
-    <file name="sunbanner.jpg" crc="316557624" ref="tablet>index:index">
+    <file name="sunbanner.jpg" crc="316557624" ref="tablet>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="development.png" crc="3825955620" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="responsive.png" crc="3841902940" seo="true" ref="tablet>index:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="johndoe.jpg" crc="426126780" ref="tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -223,6 +202,9 @@
     <file name="u3171-r.png" crc="59429556" ref="index"/>
     <file name="u3173.png" crc="3851209329" ref="index"/>
     <file name="u3173-r.png" crc="146870850" ref="index"/>
+    <file name="charts-colored-pencils-coloured-pencils-669622.jpg" crc="351348667" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -240,5 +222,5 @@
     </folder>
     <file name="index.html" crc="443823657" seo="true" mt="1530719175513" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3910065647" seo="true" mt="1530719270272" redirect="true"/>
+  <file name="index.html" crc="502630469" seo="true" mt="1531060975751" redirect="true"/>
 </manifest>
