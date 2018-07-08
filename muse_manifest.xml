@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chriscahill.cc" resolutions="1x" timestamp="1531060977534">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chriscahill.cc" resolutions="1x" timestamp="1531061586806">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="273607306" ref="index"/>
+    <file name="index.css" crc="67932614" ref="index"/>
     <file name="iefonts_index.css" crc="4227596082" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -222,5 +222,5 @@
     </folder>
     <file name="index.html" crc="443823657" seo="true" mt="1530719175513" redirect="true"/>
   </folder>
-  <file name="index.html" crc="502630469" seo="true" mt="1531060975751" redirect="true"/>
+  <file name="index.html" crc="3900910968" seo="true" mt="1531061575058" redirect="true"/>
 </manifest>
