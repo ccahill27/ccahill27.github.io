@@ -8,28 +8,10 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chriscahill.cc/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://chriscahill.cc/tablet/index.html"/>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/branding.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chriscahill.cc/images/design.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://chriscahill.cc/images/90-.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chriscahill.cc/images/75-.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chriscahill.cc/images/development.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chriscahill.cc/images/responsive.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chriscahill.cc/images/marketing.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://chriscahill.cc/images/seo.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://chriscahill.cc/images/facebook.png</image:loc>
@@ -39,6 +21,15 @@
     </image:image>
     <image:image>
       <image:loc>http://chriscahill.cc/images/google.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chriscahill.cc/images/rlogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chriscahill.cc/images/logo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://chriscahill.cc/images/python-logo-notext.svg</image:loc>
     </image:image>
   </url>
 </urlset>
