@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chriscahill.cc" resolutions="1x" timestamp="1531061745427">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chriscahill.cc" resolutions="1x" timestamp="1532085915594">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3985626071" ref="index"/>
-    <file name="iefonts_index.css" crc="4227596082" ref="index"/>
+    <file name="index.css" crc="448858963" ref="index"/>
+    <file name="iefonts_index.css" crc="3964379971" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -35,7 +35,6 @@
     <file name="jamesdoe.jpg" crc="403037988" ref="phone>index:tablet>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="u5661.png" crc="3970418334" ref="phone>index"/>
     <file name="u5661-r.png" crc="3773057907" ref="phone>index"/>
@@ -57,7 +56,6 @@
     <file name="image2-u5783-fr.jpg" crc="3975197988" ref="phone>index"/>
     <file name="image3-u5784-fr.jpg" crc="4108715087" ref="phone>index"/>
     <file name="janetdoe.jpg" crc="513560085" ref="phone>index:tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -87,7 +85,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="johndoe.jpg" crc="426126780" ref="tablet>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u5208.png" crc="3970418334" ref="tablet>index"/>
@@ -137,22 +134,6 @@
     <file name="u2864-r.png" crc="171240516" ref="index"/>
     <file name="u2862.png" crc="3799845359" ref="index"/>
     <file name="u2862-r.png" crc="286735342" ref="index"/>
-    <file name="u2866.png" crc="3970418334" ref="index"/>
-    <file name="u2866-r.png" crc="3773057907" ref="index"/>
-    <file name="u2868.png" crc="474054089" ref="index"/>
-    <file name="u2868-r.png" crc="202700192" ref="index"/>
-    <file name="u2872.png" crc="4245871649" ref="index"/>
-    <file name="u2872-r.png" crc="171240516" ref="index"/>
-    <file name="u2870.png" crc="3799845359" ref="index"/>
-    <file name="u2870-r.png" crc="286735342" ref="index"/>
-    <file name="u2874.png" crc="3970418334" ref="index"/>
-    <file name="u2874-r.png" crc="3773057907" ref="index"/>
-    <file name="u2876.png" crc="474054089" ref="index"/>
-    <file name="u2876-r.png" crc="202700192" ref="index"/>
-    <file name="u2880.png" crc="4245871649" ref="index"/>
-    <file name="u2880-r.png" crc="171240516" ref="index"/>
-    <file name="u2878.png" crc="3799845359" ref="index"/>
-    <file name="u2878-r.png" crc="286735342" ref="index"/>
     <file name="crossbrowser-u2944.png" crc="485010383" ref="index"/>
     <file name="image4.jpg" crc="241676808" ref="index">
       <caption webpage="index" alt=""/>
@@ -205,6 +186,9 @@
     <file name="charts-colored-pencils-coloured-pencils-669622.jpg" crc="351348667" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="img_3617.jpg" crc="186864240" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -222,5 +206,5 @@
     </folder>
     <file name="index.html" crc="443823657" seo="true" mt="1530719175513" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3847477408" seo="true" mt="1531061738559" redirect="true"/>
+  <file name="index.html" crc="75485983" seo="true" mt="1532085911705" redirect="true"/>
 </manifest>
