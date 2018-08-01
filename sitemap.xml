@@ -1,35 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://chriscahill.cc/index.html</loc>
+    <loc>https://ccahill27.github.io/index.html</loc>
     <lastmod>2018-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://chriscahill.cc/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://chriscahill.cc/tablet/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://ccahill27.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="https://ccahill27.github.io/tablet/index.html"/>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/90-.png</image:loc>
+      <image:loc>https://ccahill27.github.io/images/facebook.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/75-.png</image:loc>
+      <image:loc>https://ccahill27.github.io/images/twitter_alt.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/facebook.png</image:loc>
+      <image:loc>https://ccahill27.github.io/images/google.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/twitter_alt.png</image:loc>
+      <image:loc>https://ccahill27.github.io/images/rlogo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/google.png</image:loc>
+      <image:loc>https://ccahill27.github.io/images/logo.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/rlogo.png</image:loc>
+      <image:loc>https://ccahill27.github.io/images/python-logo-notext.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/logo.jpg</image:loc>
+      <image:loc>https://ccahill27.github.io/images/lschs.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://chriscahill.cc/images/python-logo-notext.svg</image:loc>
+      <image:loc>https://ccahill27.github.io/images/nova.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://ccahill27.github.io/images/tamu.png</image:loc>
     </image:image>
   </url>
 </urlset>
