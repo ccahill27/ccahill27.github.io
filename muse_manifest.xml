@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1533325226486">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1533325819371">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="299429013" ref="index"/>
-    <file name="iefonts_index.css" crc="404782018" ref="index"/>
+    <file name="index.css" crc="4032073825" ref="index"/>
+    <file name="iefonts_index.css" crc="3821506086" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
@@ -11,9 +11,9 @@
     <file name="museconfig.js" crc="310584261" ref="phone>index:tablet>index:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index:index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index:index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index:index"/>
     <file name="form-u5733.php" crc="191823285" ref="phone>index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
@@ -196,5 +196,5 @@
     </folder>
     <file name="index.html" crc="523240520" seo="true" mt="1533325191310" redirect="true"/>
   </folder>
-  <file name="index.html" crc="472026339" seo="true" mt="1533325167468" redirect="true"/>
+  <file name="index.html" crc="145699794" seo="true" mt="1533325798117" redirect="true"/>
 </manifest>
