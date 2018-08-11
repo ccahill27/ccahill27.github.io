@@ -1,22 +1,38 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1533325819371">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1533950561872">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4153207854" ref="tablet>index"/>
+      <file name="index.css" crc="376195008" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4276839460" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3814345642" seo="true" mt="1533325191312" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3815940287" ref="phone>index"/>
+      <file name="index.css" crc="229305935" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="529249347" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="402076271" seo="true" mt="1533325191310" redirect="true"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="4032073825" ref="index"/>
+    <file name="index.css" crc="4000925662" ref="index"/>
     <file name="iefonts_index.css" crc="3821506086" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
-    <file name="museconfig.js" crc="310584261" ref="phone>index:tablet>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="340535759" ref="index:phone>index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index"/>
+    <file name="museconfig.js" crc="310584261" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:phone>index:tablet>index"/>
+    <file name="require.js" crc="7928878" ref="index:phone>index:tablet>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
-    <file name="form_check.php" crc="4020933626" ref="phone>index:index"/>
-    <file name="form_throttle.php" crc="4259590256" ref="phone>index:index"/>
-    <file name="form_process.php" crc="37464564" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
     <file name="form-u5733.php" crc="191823285" ref="phone>index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
-    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
     <file name="form-u5139.php" crc="3822770817" ref="tablet>index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="tablet>index:index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="tablet>index:index"/>
@@ -109,6 +125,15 @@
     <file name="u5222-r.png" crc="171240516" ref="tablet>index"/>
     <file name="u5220.png" crc="3799845359" ref="tablet>index"/>
     <file name="u5220-r.png" crc="286735342" ref="tablet>index"/>
+    <file name="image4.jpg" crc="3773068500" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image2.jpg" crc="379818459" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image3.jpg" crc="3837054640" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u5282.png" crc="237097593" ref="tablet>index"/>
     <file name="u5282-r.png" crc="278598571" ref="tablet>index"/>
     <file name="u5284.png" crc="3835012961" ref="tablet>index"/>
@@ -123,6 +148,12 @@
     <file name="u5292-r.png" crc="59429556" ref="tablet>index"/>
     <file name="u5294.png" crc="3851209329" ref="tablet>index"/>
     <file name="u5294-r.png" crc="146870850" ref="tablet>index"/>
+    <file name="charts-colored-pencils-coloured-pencils-669622.jpg" crc="351348667" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_3617.jpg" crc="186864240" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="u2858.png" crc="3970418334" ref="index"/>
     <file name="u2858-r.png" crc="3773057907" ref="index"/>
     <file name="u2860.png" crc="3935837124" ref="index"/>
@@ -131,35 +162,6 @@
     <file name="u2864-r.png" crc="171240516" ref="index"/>
     <file name="u2862.png" crc="3799845359" ref="index"/>
     <file name="u2862-r.png" crc="286735342" ref="index"/>
-    <file name="image4.jpg" crc="3773068500" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="image2.jpg" crc="379818459" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="image3.jpg" crc="3837054640" ref="tablet>index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u3161.png" crc="237097593" ref="index"/>
-    <file name="u3161-r.png" crc="278598571" ref="index"/>
-    <file name="u3163.png" crc="3835012961" ref="index"/>
-    <file name="u3163-r.png" crc="427453210" ref="index"/>
-    <file name="u3165.png" crc="4119944699" ref="index"/>
-    <file name="u3165-r.png" crc="321456869" ref="index"/>
-    <file name="u3167.png" crc="406387937" ref="index"/>
-    <file name="u3167-r.png" crc="338771346" ref="index"/>
-    <file name="u3169.png" crc="10995563" ref="index"/>
-    <file name="u3169-r.png" crc="3821930293" ref="index"/>
-    <file name="u3171.png" crc="4080000022" ref="index"/>
-    <file name="u3171-r.png" crc="59429556" ref="index"/>
-    <file name="u3173.png" crc="3851209329" ref="index"/>
-    <file name="u3173-r.png" crc="146870850" ref="index"/>
-    <file name="charts-colored-pencils-coloured-pencils-669622.jpg" crc="351348667" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_3617.jpg" crc="186864240" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="rlogo.png" crc="4202722302" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -179,22 +181,20 @@
     <file name="tamu.png" crc="4099992704" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u3161.png" crc="237097593" ref="index"/>
+    <file name="u3161-r.png" crc="278598571" ref="index"/>
+    <file name="u3163.png" crc="3835012961" ref="index"/>
+    <file name="u3163-r.png" crc="427453210" ref="index"/>
+    <file name="u3165.png" crc="4119944699" ref="index"/>
+    <file name="u3165-r.png" crc="321456869" ref="index"/>
+    <file name="u3167.png" crc="406387937" ref="index"/>
+    <file name="u3167-r.png" crc="338771346" ref="index"/>
+    <file name="u3169.png" crc="10995563" ref="index"/>
+    <file name="u3169-r.png" crc="3821930293" ref="index"/>
+    <file name="u3171.png" crc="4080000022" ref="index"/>
+    <file name="u3171-r.png" crc="59429556" ref="index"/>
+    <file name="u3173.png" crc="3851209329" ref="index"/>
+    <file name="u3173-r.png" crc="146870850" ref="index"/>
   </folder>
-  <folder name="tablet">
-    <folder name="css">
-      <file name="master_a-master.css" crc="4153207854" ref="tablet>index"/>
-      <file name="index.css" crc="3818749448" ref="tablet>index"/>
-      <file name="iefonts_index.css" crc="4276839460" ref="tablet>index"/>
-    </folder>
-    <file name="index.html" crc="4252185278" seo="true" mt="1533325191312" redirect="true"/>
-  </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="master_a-master.css" crc="3815940287" ref="phone>index"/>
-      <file name="index.css" crc="4164079486" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="529249347" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="523240520" seo="true" mt="1533325191310" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="145699794" seo="true" mt="1533325798117" redirect="true"/>
+  <file name="index.html" crc="392384502" seo="true" mt="1533325959028" redirect="true"/>
 </manifest>
