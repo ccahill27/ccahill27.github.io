@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1535331456649">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1537492156114">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="4153207854" ref="tablet>index"/>
@@ -17,7 +17,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3768165205" ref="index"/>
+    <file name="index.css" crc="3812358560" ref="index"/>
     <file name="iefonts_index.css" crc="237357985" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -189,5 +189,5 @@
     <file name="u7239.png" crc="4245871649" ref="index"/>
     <file name="u7239-r.png" crc="171240516" ref="index"/>
   </folder>
-  <file name="index.html" crc="3841623955" seo="true" mt="1535331441146" redirect="true"/>
+  <file name="index.html" crc="3865361320" seo="true" mt="1537492134297" redirect="true"/>
 </manifest>
