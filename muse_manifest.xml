@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1549328287612">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1549328672343">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="3828235253" ref="tablet>index"/>
@@ -145,5 +145,5 @@
     <file name="u7400.png" crc="4245871649" ref="tablet>index"/>
     <file name="u7400-r.png" crc="171240516" ref="tablet>index"/>
   </folder>
-  <file name="index.html" crc="3882377409" seo="true" mt="1549327920705" redirect="true"/>
+  <file name="index.html" crc="3825691393" seo="true" mt="1549328599078" redirect="true"/>
 </manifest>
