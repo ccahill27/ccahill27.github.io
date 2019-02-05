@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1549059563898">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RVAstatistics.com" resolutions="1x" timestamp="1549327932758">
   <folder name="tablet">
     <folder name="css">
       <file name="master_a-master.css" crc="3828235253" ref="tablet>index"/>
@@ -17,7 +17,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="3839029182" ref="index"/>
+    <file name="index.css" crc="4141138523" ref="index"/>
     <file name="iefonts_index.css" crc="3905600509" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -88,11 +88,8 @@
     </file>
     <file name="charts-colored-pencils-coloured-pencils-669622.jpg" crc="351348667" ref="index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="img_3617.jpg" crc="186864240" ref="index:tablet>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -106,27 +103,21 @@
     <file name="u2862-r.png" crc="286735342" ref="index"/>
     <file name="rlogo.png" crc="4202722302" seo="true" ref="index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logo.jpg" crc="3837620753" seo="true" ref="index:tablet>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="python-logo-notext.svg" crc="384217569" seo="true" ref="index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
-    <file name="python-logo-notext_poster_.png" crc="365085193" ref="tablet>index"/>
+    <file name="python-logo-notext_poster_.png" crc="365085193" ref="tablet>index:index"/>
     <file name="lschs.jpg" crc="420748438" seo="true" ref="index:tablet>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="nova.png" crc="401198419" seo="true" ref="index:tablet>index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="tamu.png" crc="4099992704" seo="true" ref="index:tablet>index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="u7233.png" crc="3970418334" ref="index"/>
@@ -154,5 +145,5 @@
     <file name="u7400.png" crc="4245871649" ref="tablet>index"/>
     <file name="u7400-r.png" crc="171240516" ref="tablet>index"/>
   </folder>
-  <file name="index.html" crc="4052895054" seo="true" mt="1549059535187" redirect="true"/>
+  <file name="index.html" crc="3882377409" seo="true" mt="1549327920705" redirect="true"/>
 </manifest>
